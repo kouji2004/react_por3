@@ -3,6 +3,6 @@ import { Button } from 'react-bootstrap';
 
 export const HomePage = () => {
   return (
-    <div><button>ホームページ</button></div>
+    <div></div>
   )
 }
